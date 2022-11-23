@@ -7,7 +7,6 @@ body {
   gap: 10px;
   flex-direction: column;
   padding: 30px;
-  /* background-color: #282c34; */
 }
 
 .columns {
@@ -16,6 +15,10 @@ body {
   justify-content: space-between;
   gap: 10px;
   margin-bottom: 12px;
+}
+
+.MuiPaper-root {
+  width: 100%;
 }
 
 .App-logo {
