@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uno-counter/static/css/main.39a2d281.css",
+    "main.js": "/uno-counter/static/js/main.a99f5dd5.js",
+    "static/js/787.5d4ddb79.chunk.js": "/uno-counter/static/js/787.5d4ddb79.chunk.js",
+    "index.html": "/uno-counter/index.html",
+    "main.39a2d281.css.map": "/uno-counter/static/css/main.39a2d281.css.map",
+    "main.a99f5dd5.js.map": "/uno-counter/static/js/main.a99f5dd5.js.map",
+    "787.5d4ddb79.chunk.js.map": "/uno-counter/static/js/787.5d4ddb79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a2d281.css",
+    "static/js/main.a99f5dd5.js"
+  ]
+}
